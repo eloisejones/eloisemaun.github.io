@@ -15,3 +15,8 @@ https://github.com/eloisemaun
 # [LinkedIn Profile](https://www.linkedin.com/in/eloise-maun/)
 
 https://www.linkedin.com/in/eloise-maun/
+
+# [StackOverflow](https://stackoverflow.com/users/11711310/eloise-maun)
+
+Profile: https://stackoverflow.com/users/11711310/eloise-maun
+CV: https://stackoverflow.com/cv/eloisemaun
