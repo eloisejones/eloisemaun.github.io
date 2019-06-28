@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Eloise Maun
 
-You can use the [editor on GitHub](https://github.com/eloisemaun/eloisemaun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Conference Bio:** An equally avid fan of punishingly complex board games and also puns about dinosaurs, Eloise brings her analytical abilities to bear on a wide range of interests and delivers them to audiences with clarity and humor. Following the family legacy of accidental programmers, she studied impractical topics like Russian and Technical Theatre at the University of Michigan while making money providing tech support, creating web sites, and inadvertently learning to program. 15 years, a husband, and 3 children later, Eloise has had experience in every aspect of software/web development and currently works in the weird, niche industry of HR Information Systems Integration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eloisemaun/eloisemaun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Resume:** [eloise.maun.me](http://eloise.maun.me)
