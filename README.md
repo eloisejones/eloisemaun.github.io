@@ -8,6 +8,10 @@ From my conference bio:
 
 http://eloise.maun.me
 
+# [Schedule a Meeting](https://calendly.com/eloisemaun)
+
+https://calendly.com/eloisemaun
+
 # [GitHub Profile](https://github.com/eloisemaun)
 
 https://github.com/eloisemaun
