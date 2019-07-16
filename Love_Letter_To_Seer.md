@@ -1,6 +1,6 @@
 Dear Seer,
 
-Since I already attached a cover letter that was mostly about *me*, I wanted to take the time to include here what I caught my eye about Seer and this listing, why I think we [fit](https://www.youtube.com/watch?v=FA5jsa1lR9c)*. 
+Since I already attached a cover letter that was mostly about *me*, I wanted to take the time to include here what caught my eye about Seer and this listing, why I think we [fit](https://www.youtube.com/watch?v=FA5jsa1lR9c)*. 
 
 It is worth noting: my current search is not for a specific technology, specific stack, specific job/title, or even specific industry. For me, it is *all* about the people and the culture fit. And I think Seer is exactly what I'm looking for.
 
